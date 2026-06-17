@@ -3,6 +3,8 @@
 ### References Material
 -  <p>https://wiki.osdev.org/Bare_Bones_with_NASM</p> 
 - <p>https://wiki.osdev.org/Creating_an_Operating_System</p>
+- <p>https://www.youtube.com/watch?v=5F6BbhgvFOE</p>
+- <p></p>
 
 # Reescrevendo o Bootloader
 - Rescrevendo o bootloader para NASM
